@@ -95,3 +95,47 @@ Question: 10. What are some of the targets outlined in the Sustainable Developme
 Answer: Some of the targets outlined in the Sustainable Development Goals for managing and protecting life below water include conserving and sustainably using the oceans, seas, and marine resources for sustainable development, reducing the overexploitation of fish stocks, and addressing plastic pollution in the oceans.
 --------------------------------------------------
 
+Question: 1. What is the main goal of the Sustainable Development Goals (SDGs) mentioned in the text?
+Answer: The main goal of the Sustainable Development Goals (SDGs) mentioned in the text is to end extreme poverty in all forms by 2030.
+--------------------------------------------------
+
+Question: 2. How has the international community made progress in reducing extreme poverty in the past 15 years?
+Answer: In the past 15 years, the international community has made progress in reducing extreme poverty by cutting it in half.
+--------------------------------------------------
+
+Question: 3. What are some examples of actions that can be taken to achieve the goal of ending hunger and promoting sustainable agriculture?
+Answer: Some examples of actions that can be taken to achieve the goal of ending hunger and promoting sustainable agriculture include promoting sustainable farming practices, supporting small farmers, investing in agricultural research and innovation, improving access to markets for small-scale farmers, reducing food waste, and ensuring fair wages and working conditions for agricultural workers.
+--------------------------------------------------
+
+Question: 4. How has progress been made in improving access to education globally, and what are some challenges that still exist?
+Answer: Progress has been made in improving access to education globally since 2000. The total enrollment rate in developing regions has reached 91%, which is a significant achievement. Additionally, gender parity in primary education has been reached in most regions, and more girls are now in school compared to 2000. However, challenges still exist, such as poverty, armed conflict, and emergencies keeping many children out of school. Children from the poorest households are four times more likely to be out of school than those from the richest households. Despite the progress, there is still a need to ensure universal primary and secondary education, affordable vocational training, access to higher education, and to address gender disparities in education.
+--------------------------------------------------
+
+Question: 5. Why is achieving gender equality and empowering women and girls important for sustainable development?
+Answer: Achieving gender equality and empowering women and girls is important for sustainable development because it leads to a more inclusive and prosperous society. When women and girls have equal access to education, employment, and decision-making opportunities, it not only benefits them individually but also contributes to economic growth, social stability, and overall progress for the entire community. Empowering women and girls can help break the cycle of poverty, improve health outcomes, promote environmental sustainability, and build more resilient and peaceful societies.
+--------------------------------------------------
+
+Question: 6. What are some key actions that can be taken to combat climate change and its impacts?
+Answer: Some key actions that can be taken to combat climate change and its impacts include reducing carbon emissions, promoting renewable energy sources, increasing energy efficiency, protecting forests and other natural habitats, implementing sustainable agriculture practices, and investing in climate resilience and adaptation measures.
+--------------------------------------------------
+
+Question: 7. How can individuals support the Sustainable Development Goals and contribute to their achievement by 2030?
+Answer: Individuals can support the Sustainable Development Goals and contribute to their achievement by taking various actions such as:
+
+1. **Educating Themselves:** Learning about the Sustainable Development Goals and understanding the issues they address is the first step towards contributing to their achievement.
+
+2. **Advocacy:** Individuals can advocate for the SDGs by raising awareness in their communities, schools, workplaces, and social circles.
+
+3. **Volunteering:** Getting involved in local and global initiatives that support the SDGs can make a significant impact.
+
+4. **Donating:** Contributing financially to organizations and projects that work towards the SDGs can help fund important initiatives.
+
+5. **Sustainable Practices:** Adopting sustainable lifestyle choices such as reducing waste, conserving energy, and supporting ethical products can contribute to the goals.
+
+6. **Engaging with Social Media:** Sharing information about the SDGs on social media platforms can help raise awareness and inspire others to take action.
+
+7. **Participating in Events:** Attending events, workshops, and conferences related to the SDGs can provide opportunities to learn, collaborate, and contribute to the goals.
+
+These are just a few ways individuals can support the Sustainable Development Goals and contribute to their achievement by 2030.
+--------------------------------------------------
+
