@@ -51,3 +51,47 @@ Question: 10. How can individuals support and help achieve the Sustainable Devel
 9. Supporting initiatives that promote gender equality and empower women and girls.
 10. Taking action to combat climate change and its impacts.\n--------------------------------------------------
 
+Question: 1. What is the main goal of the Sustainable Development Goals (SDGs) mentioned in the text?
+Answer: The main goal of the Sustainable Development Goals (SDGs) mentioned in the text is to end extreme poverty in all forms by 2030.
+--------------------------------------------------
+
+Question: 2. How has the international community made progress in reducing extreme poverty in the past 15 years?
+Answer: In the past 15 years, the international community has made significant progress in reducing extreme poverty by cutting it in half. This achievement demonstrates that with concerted efforts and global cooperation, it is possible to make a positive impact on reducing poverty levels worldwide.
+--------------------------------------------------
+
+Question: 3. What are some of the key achievements in the area of health mentioned in the text?
+Answer: Some key achievements in the area of health mentioned in the text include a significant reduction in preventable child deaths and maternal mortality in the 25 years before the SDGs. Additionally, progress has been made in increasing the percentage of women getting paid for their work.
+--------------------------------------------------
+
+Question: 4. How has progress been made in providing primary education to all children worldwide?
+Answer: Since 2000, there has been significant progress in providing primary education to all children worldwide. The total enrollment rate in developing regions has reached 91%, which is a positive step towards achieving the goal of universal primary education. Many regions have also reached gender parity in primary education, indicating progress in ensuring equal access to education for all children.
+--------------------------------------------------
+
+Question: 5. What are some of the challenges and goals related to ensuring gender equality and empowering women and girls?
+Answer: Some of the challenges related to ensuring gender equality and empowering women and girls include gross inequalities in work and wages, unpaid "women's work" such as child care and domestic work, and discrimination in public decision-making. The goal is to achieve gender equality and empower all women and girls by addressing these challenges and ensuring an end to discrimination against women and girls everywhere.
+--------------------------------------------------
+
+Question: 6. What is the goal related to access to clean drinking water and sanitation by 2030?
+Answer: The goal related to access to clean drinking water and sanitation by 2030 is to ensure availability and sustainable management of water and sanitation for all.
+--------------------------------------------------
+
+Question: 7. How has access to electricity improved globally between 1990 and 2010?
+Answer: Between 1990 and 2010, the number of people with access to electricity increased by 1.7 billion. This shows significant progress in improving access to electricity globally during that time period.
+--------------------------------------------------
+
+Question: 8. What are some of the key points mentioned in the text regarding economic growth and decent work for all?
+Answer: Some key points mentioned in the text regarding economic growth and decent work for all include:
+
+1. The middle class is growing worldwide, almost tripling in size in developing countries in the last 25 years, to more than a third of the population.
+2. Job growth is not keeping pace with the growing labor force, highlighting the need for policies that encourage entrepreneurship and job creation.
+3. The goal is to eradicate forced labor, slavery, and human trafficking to achieve decent work for all women and men by 2030.
+--------------------------------------------------
+
+Question: 9. How can technological progress help address global challenges related to sustainable development?
+Answer: Technological progress can help address global challenges related to sustainable development by promoting innovation, creating jobs, and improving energy efficiency. For example, advancements in technology can help bridge the digital divide, promote sustainable industries, and facilitate scientific research and innovation. Additionally, investing in infrastructure and technological solutions can contribute to achieving the Sustainable Development Goals and promoting sustainable development worldwide.
+--------------------------------------------------
+
+Question: 10. What are some of the targets outlined in the Sustainable Development Goals for managing and protecting life below water?
+Answer: Some of the targets outlined in the Sustainable Development Goals for managing and protecting life below water include conserving and sustainably using the oceans, seas, and marine resources for sustainable development, reducing the overexploitation of fish stocks, and addressing plastic pollution in the oceans.
+--------------------------------------------------
+
