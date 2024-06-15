@@ -93,7 +93,7 @@ def llm_pipeline(file_path):
     # in this case, "gpt-3.5-turbo".
     # The 'temperature' parameter controls the randomness of the model's output, 
     # set to 0.3 for balanced creativity and coherence.
-    llm_ques_gen_pipeline = ChatOpenAI(
+    llm_ques_gen_pipeline = ChatOpenAI( 
         model='gpt-3.5-turbo',
         temperature=0.5
     )
