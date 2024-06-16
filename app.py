@@ -1,8 +1,4 @@
-from fastapi import (
-  FastAPI, Form, Request, Response, 
-  File, Depends, HTTPException, status
-  )
-
+from fastapi import FastAPI, Form, Request, Response, File, Depends, HTTPException, status
 from fastapi.responses import RedirectResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
@@ -17,6 +13,7 @@ from src.helper import llm_pipeline
 
 app = FastAPI()
 app.mount("/static", StaticFiles(directory="static"), name="static")
+
 templates = Jinja2Templates(directory="templates")
 
 
@@ -24,6 +21,7 @@ templates = Jinja2Templates(directory="templates")
 @app.get("/")
 async def index(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
+
 
 
 @app.post("/upload")
@@ -77,101 +75,4 @@ async def chat(request: Request, pdf_filename: str = Form(...)):
 if __name__ == "__main__":
     uvicorn.run("app:app", host='0.0.0.0', port=8000, reload=True)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# http://127.0.0.1:8000

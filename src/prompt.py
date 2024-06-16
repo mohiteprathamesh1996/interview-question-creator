@@ -9,7 +9,7 @@ You do this by asking questions about the text below:
 {text}
 ------------
 
-Create questions that will prepare the coders or programmers for their tests.
+Create an extremely challenging set of 25 questions that will prepare the coders or programmers for their tests.
 Make sure not to lose any important information.
 
 QUESTIONS:

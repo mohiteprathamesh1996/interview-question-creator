@@ -1,13 +1,13 @@
 # Import the necessary classes from langchain modules.
 import os
 from src.prompt import *
-from langchain.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import PyPDFLoader
 from langchain.docstore.document import Document
 from langchain.text_splitter import TokenTextSplitter
 from langchain.prompts import PromptTemplate
-from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
 from langchain_openai import OpenAIEmbeddings
-from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQA
 from langchain.chains.summarize import load_summarize_chain
 
@@ -95,7 +95,7 @@ def llm_pipeline(file_path):
     # set to 0.3 for balanced creativity and coherence.
     llm_ques_gen_pipeline = ChatOpenAI( 
         model='gpt-3.5-turbo',
-        temperature=0.5
+        temperature=1
     )
 
 
